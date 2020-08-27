@@ -160,5 +160,5 @@ We will get the curve as below.
 
 <h3>Conclusion</h3>
 Congratulations, you made it this far. We have read, clean and processed the data. We trained data wih different models and compared the accuracies. From the above we see 'Binary Logistic Regression' model is giving good accuracy score 81.4%. This can be increased using Bagging or Boosting techniques, by means training multiple times by shiffling ,different sets of data.
-<br>
+<br><br>
 Thank you...
