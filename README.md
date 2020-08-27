@@ -1,7 +1,7 @@
 # Salary Prediction - Based on Census Data
  Predict whether income exceeds 50k per year based on census data
 <h3>Description</h3>
-We are using Census dataset here with almost 50000 instances and 14 features. It contains categorical and numeric type of values for differnt features. It also has missing values. To see full description of dataset please use below link <a href="http://archive.ics.uci.edu/ml/datasets/Adult"> Dataset Link </a> .
+We are using Census dataset here with almost 50000 instances and 14 features. It contains categorical and numeric type of values for differnt features. It also has missing values. To see full description of dataset please use <a href="http://archive.ics.uci.edu/ml/datasets/Adult"> Dataset Link </a> .
 We are going to do all our analysis in python like observing the data, cleaning the data, transforming the data and finally training the data.
 <br>
 <h3>Requirements</h3>
