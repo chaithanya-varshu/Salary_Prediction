@@ -29,7 +29,7 @@ Now we look what are the columns in the data and what kind of values are present
 
 <br>
 We will see results like below.
-<br>
+<br><br>
 <img src=screenshots/observing_data.jpg width=70% />
 
 <h3> 3. Cleaning the Data</h3>
@@ -126,7 +126,8 @@ We got good accuracy here. This can also be seen graphically, using 'auc roc cur
      plt.legend(loc=1)
      plt.show
  
- We will see the ouput as below
+ We will see the ouput as below.
+ <br><br>
 <img src=screenshots/BLR_curve.jpg width=50% />
 
 <h3> 6. NaiveBayes Model</h3>
@@ -154,6 +155,7 @@ Now the roc_curve:
      plt.show
 
 We will get the curve as below.
+<br><br>
 <img src=screenshots/NB_curve.jpg width=50% />
 
 <h3>Conclusion</h3>
